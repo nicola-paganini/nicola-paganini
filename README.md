@@ -1,20 +1,20 @@
-![image](https://github.com/nicola-paganini/nicola-paganini/assets/171560396/204d58fb-fdd6-4a19-b371-f407e0382571)![image](https://github.com/nicola-paganini/nicola-paganini/assets/171560396/be406118-b8ad-478c-a722-727f359e6415)Hey, I'm Nicole! 👋🏻
+Hey, I'm Nicole! 👋🏻
 ======
-A psychology undergraduate looking to pivot into career of Web Development/Tech.
-Currently enrolled in the Khazanah Youth Development Program 2024 (KYDP) for the 
+A psychology undergraduate looking to pivot into career of Web Development/Tech. <br></br>
+Currently enrolled in the Khazanah Youth Development Program 2024 (KYDP) for the  <br></br>
 Foundation Certificate in Software Engineering👩🏻‍💻
 
 Education 📚
 ======
-BSc in Psychology (Hons) @ University of Nottingham Malaysia
-CGPA: 4.0 (First Class Honours)
-Relevant Modules: : 
+BSc in Psychology (Hons) @ University of Nottingham Malaysia  <br></br>
+CGPA: 4.0 (First Class Honours) <br></br>
+Relevant Modules: :  <br></br>
 ⋅⋅* Scientific Computing with MATLAB
 ⋅⋅* Research Methods & Analysis
 ⋅⋅* Introduction to Psychological Assessments
 ⋅⋅* Cognitive Psychology
 
-Certificates 📚
+Certificates 📄
 ======
 ##TalentLabs
 ⋅⋅* Khanazah Youth Development Program (KYDP) 2024
