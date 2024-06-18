@@ -2,7 +2,7 @@
 ======
 🧠 A psychology undergraduate looking to pivot into career of **Web Development**. <br></br>
 💻 Currently enrolled in the **Khazanah Youth Development Program 2024 (KYDP)** <br></br>
-👩🏻‍💻 **Foundation Certificate in Software Engineering**_
+👩🏻‍💻 ***Foundation Certificate in Software Engineering***
 
 📄 **Certificates** 
 ======
@@ -20,7 +20,7 @@
 
 📚 **Education** 
 ======
-🏫  **BSc in Psychology (Hons) @ University of Nottingham Malaysia** <br></br>
+🏫  ***BSc in Psychology (Hons) @ University of Nottingham Malaysia*** <br></br>
 CGPA: 4.0 (First Class Honours) <br></br>
 Relevant Modules: :
 <ul>
@@ -40,7 +40,7 @@ You can reach me via...
 
 🌟 **Interests**
 ======
-<ul>
+<ul style="line-style-type: none;">
   <li>☕️ Cafe Hopping & Coffee Brewing</li>
   <li>👾 Gameboy Modding</li>
   <li>📝 Journaling, Research</li>
