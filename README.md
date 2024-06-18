@@ -11,6 +11,7 @@
     <li>Khanazah Youth Development Program (KYDP) 2024</li>
     <li>Learnt Fundamentals in Javascript, SQL, HTML, CSS</li>
 </ul>
+
 💡  **Codecademy**
 <ul>
     <li>Build a website with HTML, CSS, and GitHub</li> 
