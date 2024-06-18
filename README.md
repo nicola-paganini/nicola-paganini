@@ -1,4 +1,4 @@
-![Uploading coffee gif.gif…]()
+
 
 👋🏻 **Hey, I'm Nicole!**
 ======
