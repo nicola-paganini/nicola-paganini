@@ -6,20 +6,18 @@
 
 📄 **Certificates** 
 ======
-💡 **Talentlabs**
+💡  **Talentlabs**
     <li>Khanazah Youth Development Program (KYDP) 2024</li>
     <li>Learnt Fundamentals in Javascript, SQL, HTML, CSS</li>
-  
 <br></br>
-
-💡 **Codecademy**
+💡  **Codecademy**
     <li>Build a website with HTML, CSS, and GitHub</li> 
     <li>Introduction to UX/UI (wireframes, prototyping with Figma)</li>
 
 
 📚 **Education** 
 ======
-🏫 **BSc in Psychology (Hons) @ University of Nottingham Malaysia** <br></br>
+🏫  **BSc in Psychology (Hons) @ University of Nottingham Malaysia** <br></br>
 CGPA: 4.0 (First Class Honours) <br></br>
 Relevant Modules: :
 <ul>
