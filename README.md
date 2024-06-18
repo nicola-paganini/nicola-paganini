@@ -1,4 +1,4 @@
-
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHpvOG84dWVla29jZnRmamo0eHR3MG1heXFoOGZ5czFtenIyNzNwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uGraqNBmZnz8Y90aZd/giphy.gif">
 
 👋🏻 **Hey, I'm Nicole!**
 ======
