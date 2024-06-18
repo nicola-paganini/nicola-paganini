@@ -7,13 +7,15 @@
 📄 **Certificates** 
 ======
 💡  **Talentlabs**
+<ul>
     <li>Khanazah Youth Development Program (KYDP) 2024</li>
     <li>Learnt Fundamentals in Javascript, SQL, HTML, CSS</li>
-<br></br>
+</ul>
 💡  **Codecademy**
+<ul>
     <li>Build a website with HTML, CSS, and GitHub</li> 
     <li>Introduction to UX/UI (wireframes, prototyping with Figma)</li>
-
+</ul>
 
 📚 **Education** 
 ======
