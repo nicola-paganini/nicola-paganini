@@ -1,3 +1,5 @@
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzA5c3JweHFzN3RhaTRidmt6cWhyODJxYzBud3lxNmo1bmljM2hjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BRPjC5MswMG52qQ/giphy.gif" style='height: 640; width: 1280; object-fit: cover'>
+
 👋🏻 **Hey, I'm Nicole!**
 ======
 🧠 A psychology undergraduate looking to pivot into career of **Web Development**. <br></br>
@@ -40,8 +42,8 @@ You can reach me via...
 
 🌟 **Interests**
 ======
-<ul style="line-style-type: none;">
-  <li>☕️ Cafe Hopping & Coffee Brewing</li>
-  <li>👾 Gameboy Modding</li>
-  <li>📝 Journaling, Research</li>
+<ul>
+  <li>☕️  Cafe Hopping & Coffee Brewing</li>
+  <li>👾  Gameboy Modding</li>
+  <li>📝  Journaling, Research</li>
 </ul>
