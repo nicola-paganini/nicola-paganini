@@ -2,17 +2,19 @@
 ======
 🧠 A psychology undergraduate looking to pivot into career of **Web Development**. <br></br>
 💻 Currently enrolled in the **Khazanah Youth Development Program 2024 (KYDP)** <br></br>
-👩🏻‍💻_**Foundation Certificate in Software Engineering**_
+👩🏻‍💻 **Foundation Certificate in Software Engineering**_
 
 📄 **Certificates** 
 ======
-💡**Talentlabs**
-  <li>Khanazah Youth Development Program (KYDP) 2024</li>
-  <li>Learnt Fundamentals in Javascript, SQL, HTML, CSS</li>
+💡 **Talentlabs**
+    <li>Khanazah Youth Development Program (KYDP) 2024</li>
+    <li>Learnt Fundamentals in Javascript, SQL, HTML, CSS</li>
+  
+<br></br>
 
-💡**Codecademy**
-  <li>Build a website with HTML, CSS, and GitHub</li> 
-  <li>Introduction to UX/UI (wireframes, prototyping with Figma)</li>
+💡 **Codecademy**
+    <li>Build a website with HTML, CSS, and GitHub</li> 
+    <li>Introduction to UX/UI (wireframes, prototyping with Figma)</li>
 
 
 📚 **Education** 
@@ -27,12 +29,18 @@ Relevant Modules: :
   <li>Cognitive Psychology</li>
 </ul>
 
-✉️ Contact
+📩 **Contact**
 ======
 You can reach me via...
-<a href="[http://www.linkedin.com](https://www.linkedin.com/in/nicole-koh-sze-kyi-78691b220/)">
-  <img src="http://www.foodbanknyc.org/_gfx_/icon-linkedin.png" alt="Linkedin Icon">
-</a>
+<ul>
+  <a href="https://www.linkedin.com/in/nicole-koh-sze-kyi-78691b220/"><li>LinkedIn</li></a>
+  <a href="mailto:nicole.kohszekyi@outlook.com"><li>nicole.kohszekyi@outlook.com</li></a>
+</ul>
 
-- 👀 I’m interested in ...
-- ⚡ Fun fact: ...
+🌟 **Interests**
+======
+<ul>
+  <li>☕️ Cafe Hopping & Coffee Brewing</li>
+  <li>👾 Gameboy Modding</li>
+  <li>📝 Journaling, Research</li>
+</ul>
