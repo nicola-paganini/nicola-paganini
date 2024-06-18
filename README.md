@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzA5c3JweHFzN3RhaTRidmt6cWhyODJxYzBud3lxNmo1bmljM2hjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BRPjC5MswMG52qQ/giphy.gif" style='height: 640; width: 1280; object-fit: cover'>
+![Uploading coffee gif.gif…]()
 
 👋🏻 **Hey, I'm Nicole!**
 ======
@@ -8,13 +8,13 @@
 
 📄 **Certificates** 
 ======
-💡  **Talentlabs**
+<h3>💡 Talentlabs</h3>
 <ul>
     <li>Khanazah Youth Development Program (KYDP) 2024</li>
     <li>Learnt Fundamentals in Javascript, SQL, HTML, CSS</li>
 </ul>
 
-💡  **Codecademy**
+<h3>💡 Codecademy</h3>
 <ul>
     <li>Build a website with HTML, CSS, and GitHub</li> 
     <li>Introduction to UX/UI (wireframes, prototyping with Figma)</li>
@@ -22,7 +22,7 @@
 
 📚 **Education** 
 ======
-🏫  ***BSc in Psychology (Hons) @ University of Nottingham Malaysia*** <br></br>
+<h3>🏫  BSc in Psychology (Hons) @ University of Nottingham Malaysia</h3>
 CGPA: 4.0 (First Class Honours) <br></br>
 Relevant Modules: :
 <ul>
@@ -34,7 +34,7 @@ Relevant Modules: :
 
 📩 **Contact**
 ======
-You can reach me via...
+<h3>You can reach me via...</h3>
 <ul>
   <a href="https://www.linkedin.com/in/nicole-koh-sze-kyi-78691b220/"><li>LinkedIn</li></a>
   <a href="mailto:nicole.kohszekyi@outlook.com"><li>nicole.kohszekyi@outlook.com</li></a>
