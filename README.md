@@ -9,8 +9,8 @@
 👩🏻‍💻 **Projects** 
 ======
 <ul>
-    <li><a href="https://nicola-paganini.github.io/coffee_lab/">Coffee Lab:</a> A website that showcases different coffee brewing equipments for beginner enthusiasts.</li>
-    <li><a href="https://nicola-paganini.github.io/colmaracademy/">Colmar Academy:</a> A school website built as an assignment from the Codecademy HTML course.</li>
+    <li><a href="https://nicola-paganini.github.io/coffee_lab/" target="_blank">Coffee Lab:</a> A website that showcases different coffee brewing equipments for beginner enthusiasts.</li>
+    <li><a href="https://nicola-paganini.github.io/colmaracademy/" target="_blank">Colmar Academy:</a> A school website built as an assignment from the Codecademy HTML course.</li>
 </ul>
 
 📄 **Certificates** 
