@@ -6,6 +6,13 @@
 💻 Currently enrolled in the **Khazanah Youth Development Program 2024 (KYDP)** <br></br>
 👩🏻‍💻 ***Foundation Certificate in Software Engineering***
 
+👩🏻‍💻 **Projects** 
+======
+<ul>
+    <li><a href="https://nicola-paganini.github.io/coffee_lab/">Coffee Lab:</a> A website that showcases different coffee brewing equipments for beginner enthusiasts.</li>
+    <li><a href="https://nicola-paganini.github.io/colmaracademy/">Colmar Academy:</a> A school website built as an assignment from the Codecademy HTML course.</li>
+</ul>
+
 📄 **Certificates** 
 ======
 <h3>💡 Talentlabs</h3>
