@@ -26,6 +26,7 @@
 <ul>
     <li>Build a website with HTML, CSS, and GitHub</li> 
     <li>Introduction to UX/UI (wireframes, prototyping with Figma)</li>
+    <li>Learn Bootstrap</li>
 </ul>
 
 📚 **Education** 
