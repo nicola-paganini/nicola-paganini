@@ -6,6 +6,13 @@
 💻 Currently enrolled in the **Khazanah Youth Development Program 2024 (KYDP)** <br></br>
 👩🏻‍💻 ***Foundation Certificate in Software Engineering***
 
+💻 **Coding Languages** 
+======
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,sqlite" />
+</a>
+
+
 👩🏻‍💻 **Projects** 
 ======
 <ul>
