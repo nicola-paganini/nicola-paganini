@@ -19,7 +19,7 @@
 <h3>💡 Talentlabs</h3>
 <ul>
     <li>Khanazah Youth Development Program (KYDP) 2024</li>
-    <li>Learnt Fundamentals in Javascript, SQL, HTML, CSS</li>
+    <li>Learnt Fundamentals in Javascript, SQL, HTML, CSS, Python</li>
 </ul>
 
 <h3>💡 Codecademy</h3>
