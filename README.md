@@ -2,7 +2,7 @@
 
 👋🏻 **Hey, I'm Nicole!**
 ======
-🧠 A psychology undergraduate looking to pivot into career of **Web Development**. <br></br>
+🧠 A psychology undergraduate looking to pivot into career in **Data Analytics or Web Development**. <br></br>
 💻 Currently enrolled in the **Khazanah Youth Development Program 2024 (KYDP)** <br></br>
 👩🏻‍💻 ***Foundation Certificate in Software Engineering***
 
